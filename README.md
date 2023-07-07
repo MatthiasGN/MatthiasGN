@@ -18,7 +18,7 @@
 
 - 🌎 On exchange at the University of Arizona, USA!
 
-- 🌱 I’m currently learning **Python, JavaScript, Machine Learning**
+- 🌱 Currently learning **Artificial Intelligence** in **Python** and **Java**
 
 - 🏃 Not just a programmer. **Computer Science Student-Athlete**
 <br></br>
@@ -38,5 +38,5 @@
 
 <br></br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=matthiasgn&show_icons=true&locale=en" alt="matthiasgn" /></p>
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=matthiasgn&show_icons=true&locale=en" alt="matthiasgn" /></p> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthiasgn&show_icons=true&locale=en&layout=compact" alt="matthiasgn" /></p> -->
