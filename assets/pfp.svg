@@ -47,10 +47,10 @@
        type="text/css"
        id="style5503">
 svg {
-  --code-one: rgba(128,230,25,1);
-  --code-two: rgba(229,230,25,1);
-  --code-three: rgba(230,25,128,1);
-  --code-four: rgba(25,195,230,1);
+  --code-one: rgba(128,230,25,0.7);
+  --code-two: rgba(229,230,25,0.7);
+  --code-three: rgba(230,25,128,0.7);
+  --code-four: rgba(25,195,230,0.7);
 }
 .g use {
    x: 0px;
@@ -58,8 +58,8 @@ svg {
 .code-block {
   -webkit-animation: read 1s infinite linear;
           animation: read 1s infinite linear;
-  -webkit-animation-duration: 4s;
-          animation-duration: 4s;
+  -webkit-animation-duration: 3s;
+          animation-duration: 3s;
 }
 .code-block rect {
   x: 100px;
