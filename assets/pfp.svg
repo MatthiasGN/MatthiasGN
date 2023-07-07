@@ -10,7 +10,7 @@
       <use y="1600" href="#code-block" transform="translate(1250, -200)"/>
       <use y="3200" href="#code-block" transform="translate(1250, -200)"/>
    </g>
-  <image href="./Matthias-Vector-Final.png" height="2400" width="2400" x="80" y="160" style="border-radius:50%;" clip-path="url(#rect-bg-clip)"></image>
+  <image href="https://i.imgur.com/HB2HasN.png" height="2400" width="2400" x="80" y="160" clip-path="url(#rect-bg-clip)"></image>
   <defs>
     <style type="text/css">
       svg {--code-one: rgba(128,230,25,0.7); --code-two: rgba(229,230,25,0.7); --code-three: rgba(230,25,128,0.7); --code-four: rgba(25,195,230,0.7);}
