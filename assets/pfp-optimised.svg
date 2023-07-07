@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1500 1500"
+   height="1500"
+   width="1500">
+   <rect
+      id="rect-bg"
+      fill="#222831"
+      height="100%"
+      width="100%" 
+      rx="250"/>
+   <g
+      clip-path="url(#rect-bg-clip)"
+      id="g1">
+      <use
+         y="0"
+         xlink:href="#code-block"/>
+      <use
+         y="800"
+         xlink:href="#code-block"/>
+      <use
+         y="1600"
+         xlink:href="#code-block"/>
+   </g>
+   <g
+      clip-path="url(#rect-bg-clip)"
+      id="g2">
+      <use
+         x="0"
+         xlink:href="#code-block"
+         transform="translate(700, -200)"/>
+      <use
+         y="800"
+         xlink:href="#code-block"
+         transform="translate(700, -200)"/>
+      <use
+         y="1600"
+         xlink:href="#code-block"
+         transform="translate(700, -200)"/>
+   </g>
+   </g>
+  <image href="https://i.imgur.com/HB2HasN.png" height="1500" width="1500" x="0" y="0" style="border-radius:50%;" clip-path="url(#rect-bg-clip)"></image>
+  <defs
+     id="defs48">
+
+    <style
+       type="text/css"
+       id="style5503">
+svg {
+  --code-one: rgba(128,230,25,0.7);
+  --code-two: rgba(229,230,25,0.7);
+  --code-three: rgba(230,25,128,0.7);
+  --code-four: rgba(25,195,230,0.7);
+}
+.g use {
+   x: 0px;
+}
+.code-block {
+  -webkit-animation: read 1s infinite linear;
+          animation: read 1s infinite linear;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+.code-block rect {
+  x: 100px;
+  rx: 10px;
+  height: 30px;
+  fill: var(--code-one);
+}
+.code-block rect:nth-of-type(3),
+.code-block rect:nth-of-type(4),
+.code-block rect:nth-of-type(9),
+.code-block rect:nth-of-type(12) {
+  fill: var(--code-two);
+}
+.code-block rect:nth-of-type(8),
+.code-block rect:nth-of-type(5) {
+  fill: var(--code-four);
+}
+.code-block rect:nth-of-type(15),
+.code-block rect:nth-of-type(10) {
+  fill: var(--code-three);
+}
+
+<!-- Block sizes -->
+
+.code-block rect:nth-of-type(2) {
+   x: 180px;
+}
+.code-block rect:nth-of-type(3) {
+   x: 260px;
+}
+.code-block rect:nth-of-type(4) {
+   x: 320px;
+}
+.code-block rect:nth-of-type(5) {
+   x: 180px;
+}
+.code-block rect:nth-of-type(9) {
+   x: 180px;
+}
+.code-block rect:nth-of-type(10) {
+   x: 260px;
+}
+.code-block rect:nth-of-type(12) {
+   x: 180px;
+}
+
+
+@-webkit-keyframes read {
+  to {
+    -webkit-transform: translate(0, -800px);
+            transform: translate(0, -800px);
+  }
+}
+@keyframes read {
+  to {
+    -webkit-transform: translate(0, -800px);
+            transform: translate(0, -800px);
+  }
+}
+   </style>
+    <g
+       class="code-block"
+       id="code-block">
+
+      <rect
+         width="300"
+         y="0"/>
+      <rect
+         width="400"
+         y="60"/>
+      <rect
+         width="400"
+         y="120"/>
+      <rect
+         width="200"
+         y="180"/>
+      <rect
+         width="300"
+         y="300"/>
+      <rect
+         width="500"
+         y="360"/>
+      <rect
+         width="300"
+         y="420"/>
+      <rect
+         width="400"
+         y="480"/>
+      <rect
+         width="200"
+         y="540"/>
+      <rect
+         width="300"
+         y="600"/>
+      <rect
+         width="400"
+         y="660"/>
+      <rect
+         width="300"
+         y="720"/>
+    </g>
+   <clipPath id="rect-bg-clip">
+      <use xlink:href="#rect-bg"/>
+    </clipPath>
+  </defs>
+</svg>
