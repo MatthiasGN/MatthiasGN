@@ -1,4 +1,6 @@
-[![matthias-pfp](https://github.com/matthiasgn/matthiasgn/raw/master/assets/pfp.svg)](https://linkedin.com/in/matthias365)
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/MatthiasGN/MatthiasGN/main/assets/pfp-rounded.gif" height="500" width="500" />
+</p>
 <h1 align="center">Hey. :wave:</h1>
 <h3 align="center">I'm Matthias.</h3>
 
