@@ -6,8 +6,6 @@
 
 <p align='center'>Get in touch with me - <b>matthias.giannesini@gmail.com</b>.</p>
 
-<h1 align='center'><i>Keep at it!</i></h1>
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthiasgn&label=Profile%20views&color=0e75b6&style=flat" alt="matthiasgn" /> </p> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthiasgn" alt="matthiasgn" /></a> </p>
 
