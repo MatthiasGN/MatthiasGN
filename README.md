@@ -21,7 +21,7 @@
 
 - 🌱 Currently learning **Artificial Intelligence** in **Python** and **Java**.
 
-- 🏃 Marathon runner and weight lifter.
+- 🏃 Runner and weight lifter.
 <br></br>
 
 <h3 align="left">Connect with me:</h3>
