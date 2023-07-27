@@ -5,6 +5,7 @@
 <h3 align="center">I'm Matthias.</h3>
 
 <p align='center'>Get in touch with me - <b>matthias.giannesini@gmail.com</b>.</p>
+<br></br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthiasgn&label=Profile%20views&color=0e75b6&style=flat" alt="matthiasgn" /> </p> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthiasgn" alt="matthiasgn" /></a> </p>
@@ -14,13 +15,13 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=matthiasgn&" alt="matthiasgn" /></p>
 
-- 📚 4th year Computer Science/Commerce student at the University of Sydney, Australia
+- 📚 4th year Computer Science/Commerce student at the University of Sydney, Australia.
 
-- 🌎 On exchange at the University of Arizona, USA!
+- 🌎 On exchange at the University of Arizona, USA.
 
-- 🌱 Currently learning **Artificial Intelligence** in **Python** and **Java**
+- 🌱 Currently learning **Artificial Intelligence** in **Python** and **Java**.
 
-- 🏃 Not just a programmer. **Computer Science Student-Athlete**
+- 🏃 Marathon runner and weight lifter.
 <br></br>
 
 <h3 align="left">Connect with me:</h3>
