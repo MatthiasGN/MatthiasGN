@@ -4,7 +4,7 @@
 <h1 align="center">Hey. :wave:</h1>
 <h3 align="center">I'm Matthias.</h3>
 
-<p align='center'>Get in touch with me - <b>matthias.giannesini@gmail.com</b>.</p>
+<p align='center'>Get in touch with me - <b>mail@matthiasg.com</b>.</p>
 <br></br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthiasgn&label=Profile%20views&color=0e75b6&style=flat" alt="matthiasgn" /> </p> 
