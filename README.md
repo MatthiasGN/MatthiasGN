@@ -15,9 +15,9 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=matthiasgn&" alt="matthiasgn" /></p>
 
-- 📚 4th year Computer Science/Commerce student at the University of Sydney, Australia.
+- 📚 5th year Computer Science/Commerce student at the University of Sydney, Australia.
 
-- 🌎 On exchange at the University of Arizona, USA.
+- 🌎 Completed a year-long exchange at the University of Arizona, USA in 2023.
 
 - 🌱 Currently learning **Artificial Intelligence** in **Python** and **Java**.
 
