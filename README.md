@@ -27,9 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matthias365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthias365" height="30" width="40" /></a>
-<a href="https://instagram.com/matthias.gn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matthias.gn" height="30" width="40" /></a>
-<a href="https://fb.com/matthias.g11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matthias.g11" height="30" width="40" /></a>
-
+  
 </p>
 
 <br></br>
