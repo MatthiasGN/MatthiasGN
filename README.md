@@ -20,7 +20,7 @@
 
 - 🌎 Completed a year-long exchange at the University of Arizona, USA in 2023.
 
-- 🌱 Currently learning **Artificial Intelligence** and **DS&A** in **Python**.
+- 🌱 Currently studying **Machine Learning** and **Data Structures + Algorithms** in **Python**.
 
 <p> &nbsp; </p>
 
