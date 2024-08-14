@@ -16,11 +16,11 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=matthiasgn&" alt="matthiasgn" /></p>
 
-- 📚 Final year Computer Science/Commerce student at the University of Sydney.
+- 📚 Final year Computer Science & Finance student at the University of Sydney.
 
 - 🌎 Completed a year-long exchange at the University of Arizona, USA in 2023.
 
-- 🌱 Currently studying **Machine Learning** and **Data Structures + Algorithms** in **Python**.
+- 🖥️ Currently studying **Machine Learning** and **Data Structures + Algorithms** in **Python**.
 
 <p> &nbsp; </p>
 
