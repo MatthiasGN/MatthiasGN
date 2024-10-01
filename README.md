@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/MatthiasGN/MatthiasGN/main/assets/pfp-rounded.gif" height="500" width="500" />
+  <img align="center" src="https://raw.githubusercontent.com/MatthiasGN/MatthiasGN/main/assets/snake_demo.gif" height="500" width="500" />
 </p>
 
 <p align="center">Email me: <b><a href="mailto:mail@matthiasg.com">mail@matthiasg.com</a></b></p>
