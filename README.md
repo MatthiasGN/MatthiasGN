@@ -1,25 +1,19 @@
 <p align="center">
-  <!-- <img align="center" src="https://raw.githubusercontent.com/MatthiasGN/MatthiasGN/main/assets/snake_demo.gif" height="500" width="500" /> -->
+<img align="center" src="https://raw.githubusercontent.com/MatthiasGN/MatthiasGN/main/assets/pfp-rounded.gif" height="500" width="500" />
 </p>
 
 <p align="center">Email me: <b><a href="mailto:mail@matthiasg.com">mail@matthiasg.com</a></b></p>
 <p align="center">LinkedIn: <b>https://www.linkedin.com/in/matthias365</b> </p>
 
 <p> &nbsp; </p>
-
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthiasgn&label=Profile%20views&color=0e75b6&style=flat" alt="matthiasgn" /> </p> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthiasgn" alt="matthiasgn" /></a> </p>
-
--->
-
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=matthiasgn&" alt="matthiasgn" /></p>
+<p><img align = right src="https://github-readme-streak-stats.herokuapp.com/?user=matthiasgn&" alt="matthiasgn" /></p>
 
 • Currently working as a **Technology Consultant** at Management Solutions. <br>
-• Received Bachelors of A**dvanced Computing** & Bachelor of **Commerce** from the University of Sydney. 
+• Received Bachelors of A**dvanced Computing** & Bachelor of **Commerce** from the University of Sydney. <br>
 • Received **First Class Honours**, majoring in Computer Science & Finance.<br>
 • Also completed a year-long exchange at the **University of Arizona**, USA in 2023.<br>
+
+
 
 <p> &nbsp; </p>
 
@@ -30,5 +24,3 @@
 
 <br></br>
 
-<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=matthiasgn&show_icons=true&locale=en" alt="matthiasgn" /></p> -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthiasgn&show_icons=true&locale=en&layout=compact" alt="matthiasgn" /></p> -->
