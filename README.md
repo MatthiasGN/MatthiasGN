@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/MatthiasGN/MatthiasGN/main/assets/snake_demo.gif" height="500" width="500" />
+  <!-- <img align="center" src="https://raw.githubusercontent.com/MatthiasGN/MatthiasGN/main/assets/snake_demo.gif" height="500" width="500" /> -->
 </p>
 
 <p align="center">Email me: <b><a href="mailto:mail@matthiasg.com">mail@matthiasg.com</a></b></p>
@@ -16,11 +16,9 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=matthiasgn&" alt="matthiasgn" /></p>
 
-- 📚 Computer Science & Finance Graduate (First Class Honours) from the University of Sydney.
-
-- 🌎 Completed a year-long exchange at the University of Arizona, USA in 2023.
-
-- 🖥️ Currently studying **Machine Learning** and **Data Structures + Algorithms** in **Python**.
+<p>Currently working as a **Technology Consultant** at Management Solutions.</p> <br>
+<p>Received Bachelors of Advanced Computing & Bachelor of Commerce from the University of Sydney. Received First Class Honours, majoring in Computer Science & Finance.</p><br>
+<p>Also completed a year-long exchange at the University of Arizona, USA in 2023.</p><br>
 
 <p> &nbsp; </p>
 
