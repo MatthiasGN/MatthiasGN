@@ -16,9 +16,10 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=matthiasgn&" alt="matthiasgn" /></p>
 
-<p>Currently working as a **Technology Consultant** at Management Solutions.</p> <br>
-<p>Received Bachelors of Advanced Computing & Bachelor of Commerce from the University of Sydney. Received First Class Honours, majoring in Computer Science & Finance.</p><br>
-<p>Also completed a year-long exchange at the University of Arizona, USA in 2023.</p><br>
+• Currently working as a **Technology Consultant** at Management Solutions. <br>
+• Received Bachelors of A**dvanced Computing** & Bachelor of **Commerce** from the University of Sydney. 
+• Received **First Class Honours**, majoring in Computer Science & Finance.<br>
+• Also completed a year-long exchange at the **University of Arizona**, USA in 2023.<br>
 
 <p> &nbsp; </p>
 
