@@ -8,7 +8,7 @@
 <p> &nbsp; </p>
 <!-- <p><img align = right src="https://github-readme-streak-stats.herokuapp.com/?user=matthiasgn&" alt="matthiasgn" /></p> -->
 
-• Currently working as a **Solutions Consultant** at Management Solutions. <br>
+• Previously working as a **Solutions Consultant** at Management Solutions. <br>
 • Received Bachelors of **Advanced Computing** & Bachelor of **Commerce** from the University of Sydney. <br>
 • Received **First Class Honours**, majoring in Computer Science & Finance.<br>
 • Also completed a year-long exchange at the **University of Arizona**, USA in 2023.<br>
